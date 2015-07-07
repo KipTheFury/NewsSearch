@@ -3,7 +3,7 @@
   <groupId>com.kb.newssearch</groupId>
   <artifactId>NewsSearch</artifactId>
   <version>1.0.0</version>
-  <name>HeadlineSearch</name>
+  <name>NewsSearch</name>
   
   	<packaging>jar</packaging>
 
